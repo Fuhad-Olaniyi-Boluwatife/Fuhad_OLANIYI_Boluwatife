@@ -13,4 +13,4 @@ Let’s connect if you value curiosity, collaboration, and a passion for transla
 ### Program;
 - Excel
 - Power BI
-- Postgre
+- PostgreSQL
