@@ -14,4 +14,3 @@ Let’s connect if you value curiosity, collaboration, and a passion for transla
 - Excel
 - Power BI
 - PostgreSQL
-- Python (intermediate)
