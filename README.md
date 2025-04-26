@@ -1,10 +1,11 @@
 
 
 
+![profile background](https://github.com/user-attachments/assets/e66386b6-2df5-4a72-9e1c-129e04445bc2)
 
 
 
-# Fuhad_OLANIYI_Boluwatife
+# HI there, I'm Fuhad Olaniyi Boluwatife
 
 
 ## About Me
@@ -15,6 +16,21 @@ Currently building a career in data analytics, I bring hands-on experience with 
 I’m committed to continuous learning and professional growth, and I’m excited to collaborate with like-minded individuals while making a meaningful impact in the tech and analytics space.
 
 Let’s connect if you value curiosity, collaboration, and a passion for translating data into action.
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fuhad-olaniyi-a8580b317)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@OlaniyiFuhad)
+
+
+## Reach at
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fuhadboluwatife23@gmail.com)
+
+
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+2347051888992)
+
 
 ---
 ### Program;
