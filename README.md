@@ -42,9 +42,9 @@ Let’s connect if you value curiosity, collaboration, and a passion for transla
 [![Microsoft-Power-BI-Symbol 200](https://github.com/user-attachments/assets/5ce6012e-a63e-4750-b0ab-4e282b512467)](https://powerbi.microsoft.com/)
 
 
-- Microsoft excel
-- Microsoft power point
-- Microsoft word
+- Microsoft Excel
+- Microsoft Power Point
+- Microsoft Word
 - Python(Intermediate)
 - PostgreSQL
-- Microsoft power bi
+- Microsoft Power BI
