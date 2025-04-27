@@ -40,6 +40,9 @@ Let’s connect if you value curiosity, collaboration, and a passion for transla
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+
+[![icon](<a href="https://www.flaticon.com/free-icons/microsoft-powerpoint" title="microsoft powerpoint icons">Microsoft powerpoint icons created by Pixel perfect - Flaticon</a>)](www.microsoft.com)
+
 - Microsoft excel
 - Microsoft power point
 - Microsoft word
