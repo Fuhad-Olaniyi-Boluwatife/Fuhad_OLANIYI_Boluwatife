@@ -34,14 +34,13 @@ Let’s connect if you value curiosity, collaboration, and a passion for transla
 
 ## I am well-versed in the following programs.
 
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
-[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![excel](https://github.com/user-attachments/assets/54321424-d0de-4683-a25a-b0a1461abcad)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![power point](https://github.com/user-attachments/assets/14122349-6c80-400f-82a5-6444a98c0370)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+[![word](https://github.com/user-attachments/assets/1dd81cdd-ebf7-4efb-afa7-f846ca1f2f8c)](https://www.microsoft.com/en-us/microsoft-365/word)
+[![images](https://github.com/user-attachments/assets/2887e364-a197-45e4-904a-4d38838c5599)](https://www.python.org/)
+[![0_Kk9fABlwvCMBD22y](https://github.com/user-attachments/assets/ad5e96b3-afb1-400c-a8ea-11c2364d5b9e)](https://www.postgresql.org/)
+[![Microsoft-Power-BI-Symbol 200](https://github.com/user-attachments/assets/5ce6012e-a63e-4750-b0ab-4e282b512467)](https://powerbi.microsoft.com/)
 
-[![icon](<a href="https://www.flaticon.com/free-icons/microsoft-powerpoint" title="microsoft powerpoint icons">Microsoft powerpoint icons created by Pixel perfect - Flaticon</a>)](www.microsoft.com)
 
 - Microsoft excel
 - Microsoft power point
