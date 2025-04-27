@@ -44,5 +44,5 @@ Let’s connect if you value curiosity, collaboration, and a passion for transla
 - Microsoft power point
 - Microsoft word
 - Python(Intermediate)
-- Postgres sql
-- microsoft power bi
+- PostgreSQL
+- Microsoft power bi
